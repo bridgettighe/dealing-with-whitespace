@@ -27,6 +27,7 @@ blockquote {
 .quote {
   color: #999;
 }
+
 header p {
   font-style: italic;
   margin: -1.3rem 0 1.3rem 0;
@@ -36,6 +37,7 @@ header p {
 article {
   padding-left: 1rem;
   padding-right: 1rem;
+  border-bottom: 1px solid #999;
 }
 
 article header {
