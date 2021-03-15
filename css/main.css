@@ -11,7 +11,7 @@ html {
 
 body {
   font-size: 1em;
-  margin: 0;
+  margin: 0.5;
 }
 
 h1 {
@@ -21,6 +21,8 @@ h1 {
 
 blockquote {
   font-size: 1.125rem;
+  padding-bottom: .5rem;
+  padding-top: .5rem;
   color: #555;
 }
 
@@ -32,6 +34,7 @@ header p {
   font-style: italic;
   margin: -1.3rem 0 1.3rem 0;
   border-bottom: 1px solid #999;
+  padding-bottom: 1.5rem;
 }
 
 article {
@@ -41,23 +44,23 @@ article {
 }
 
 article header {
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 0rem;
+  padding-right: 0rem;
 }
 
 article h1 {
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 0rem;
+  padding-right: 0rem;
 }
 
 article header p {
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 0rem;
+  padding-right: 0rem;
 }
 
 article p {
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 0rem;
+  padding-right: 0rem;
 }
 
 article ol {
